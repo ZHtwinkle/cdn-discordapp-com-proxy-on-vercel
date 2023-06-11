@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        { "source": "/", "destination": "https://cdn.discordapp.com" },
+        {
+            "source": "/:match*",
+            "destination": "https://cdn.discordapp.com/:match*"
+        }
+    ],
+    "github": {
+        "silent": true
+    }
+}
