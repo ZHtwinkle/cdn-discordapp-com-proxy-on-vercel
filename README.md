@@ -1,4 +1,4 @@
-# 使用 Vercel 反代 cdn.discordapp.com （图文教程）
+# 使用 Vercel 反代 cdn.discordapp.com 
 
 - [使用 Vercel 反代 cdn.discordapp.com ](#使用-vercel-反代-cdn.discordapp.com-教程)
   - [简介](#简介)
