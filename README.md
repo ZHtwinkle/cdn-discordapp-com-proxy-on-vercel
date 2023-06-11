@@ -23,7 +23,7 @@
 
 1. 点击一键部署按钮
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLinLin00000000%2Fvercel-proxy-openai&project-name=vercel-proxy-openai&repository-name=cdn-discordapp-vercel&root-directory=src)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZHtwinkle%2Fcdn-discordapp-com-proxy-on-vercel&project-name=cdn-discordapp-com-proxy-on-vercel&repository-name=cdn-discordapp-com-proxy-on-vercel&root-directory=src)
 
 2. 用 Github 登录 Vercel，没有 Github 账户的去注册一个，网上很多教程就不展开了
 
